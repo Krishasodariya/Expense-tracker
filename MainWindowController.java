@@ -139,7 +139,8 @@ public class MainWindowController {
 	    BeschreibungFeld.clear();
 	    BetragFeld.clear();
 		//checking the changes
-
+//the nrew change will be here
+		//let is see
 		
 		    
 	}
