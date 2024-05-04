@@ -138,6 +138,9 @@ public class MainWindowController {
 	   
 	    BeschreibungFeld.clear();
 	    BetragFeld.clear();
+		//checking the changes
+
+		
 		    
 	}
 
